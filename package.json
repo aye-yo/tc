@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/aye-yo/tc#readme",
   "devDependencies": {
-    "electron": "^9.0.0"
+    "electron": "^9.4.0"
   },
   "dependencies": {}
 }
